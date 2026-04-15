@@ -1,3 +1,8 @@
+/*In an operating system, files and folders are organized hierarchically. 
+A tree is the most efficient data structure to represent this because:
+Nesting: Folders can contain multiple sub-folders or files.
+Path Tracing: Finding a file involves traversing from the root to a specific leaf node.*/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
